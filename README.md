@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there! 👋
+
+Welcome to my GitHub page!
+
+I am an undergraduate student studying in the field of Electrical & Computer Engineering. I love to code, and I've always thought programming is a very interesting thing to do that doesn't necessarily require materials (unlike Legos), but creates something out of nothing using one's imagination.
+
+- 🔭 I’m currently (mainly) working on ATTCS, a React learning project.
+- 🌱 I’m currently learning Electrical Engineering, Programming (school) and Front-end development (for fun)
 
 <!--
 **InitDevelop/InitDevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
