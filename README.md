@@ -1,11 +1,14 @@
-### Hi there! 👋
+### Hi! 👋
 
-Welcome to my GitHub page!
+I'm an undergraduate student majoring in Electrical & Computer Engineering, at Seoul National University.
 
-I am an undergraduate student studying in the field of Electrical & Computer Engineering and I love to code and develop software!
+I'm currently interested in / studying...
 
-- 🔭 I’m currently (mainly) working on ATTCS, a React learning project.
-- 🌱 I’m currently learning Electrical Engineering, Programming (school) and Front-end development (for fun)
+- 💻 Computer Architecture and System-level Software
+- 🔢 Linear Algebra and Basics of Machine Learning
+
+And I do
+- 🌐 Web Development Projects (Front-end) and Design Projects for fun!
 
 <!--
 **InitDevelop/InitDevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
